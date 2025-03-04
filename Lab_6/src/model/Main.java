@@ -9,5 +9,7 @@ package model;
  * @author tiankaining
  */
 public class Main {
-    
+    public static void main(String[] args) {
+        Member3.main(args);
+    }
 }
